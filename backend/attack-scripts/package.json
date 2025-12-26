@@ -1,0 +1,11 @@
+{
+  "name": "mitm-attack-scripts",
+  "version": "1.0.0",
+  "description": "MITM attack demonstration scripts",
+  "main": "mitm-attacker.js",
+  "scripts": {
+    "demo": "node mitm-attacker.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

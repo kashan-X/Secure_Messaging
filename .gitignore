@@ -1,0 +1,14 @@
+# Node/JS
+node_modules/
+dist/
+/.env
+/backend/.env
+/frontend/.env
+npm-debug.log*
+yarn-error.log*
+
+# Vite/coverage
+coverage/
+
+# Logs
+logs.txt

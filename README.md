@@ -117,7 +117,7 @@ Edit `.env` if needed:
 ```
 PORT=4000
 MONGO_URI=mongodb://localhost:27017/e2ee
-JWT_SECRET=change-me
+JWT_SECRET=writeanything
 CLIENT_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
 TOKEN_TTL=1h
 MAX_JSON_SIZE=15mb
